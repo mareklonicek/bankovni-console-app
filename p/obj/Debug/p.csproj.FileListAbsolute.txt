@@ -1,0 +1,5 @@
+C:\Users\Marek\Documents\SharpDevelop Projects\p\p\bin\Debug\p.exe
+C:\Users\Marek\Documents\SharpDevelop Projects\p\p\bin\Debug\p.pdb
+C:\Users\Marek\Documents\SharpDevelop Projects\p\p\obj\Debug\p.exe
+C:\Users\Marek\Documents\SharpDevelop Projects\p\p\obj\Debug\p.pdb
+C:\Users\Marek\Documents\SharpDevelop Projects\p\p\obj\Debug\p.csprojResolveAssemblyReference.cache
