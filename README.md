@@ -3,4 +3,4 @@
 I used an algorithmic solution for this practical task.
 However, it is worth noting that this is not a viable solution for digital money allocation in today's context.
 
-### There is a password in the program, and it is simply the character "i"
+NOTE: There is a password in the program, and it is simply the character "i"
